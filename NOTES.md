@@ -11,3 +11,4 @@ pip3 install matplotlib
 
 https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
 https://opensource.com/article/19/5/python-3-default-mac
+https://stackoverflow.com/questions/44598124/update-frame-in-matplotlib-with-live-camera-preview
